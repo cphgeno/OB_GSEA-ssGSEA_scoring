@@ -1,0 +1,2 @@
+entrypoints:
+  default: ssgsea_main.R
